@@ -845,4 +845,4 @@ class _AudioMessageState extends State<_AudioMessage> {
   }
 }
 
-//Nambahin fitur unread chat count di aplikasi, tapi kehapus karna merge conflict dan udah langsung difix di repositori utama
+//Nambahin fitur unread chat count di aplikasi dengan mengubah bagian chat_screen.dart, message_list_screen.dart, dan chat_service.dart, kemudian menambah variabel unreadcount di database secara otomatis, tapi kehapus karna merge conflict dan udah langsung difix di repositori utama
